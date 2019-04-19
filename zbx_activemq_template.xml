@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>4.0</version>
-    <date>2019-04-18T23:07:21Z</date>
+    <date>2019-04-19T00:12:35Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -19,13 +19,13 @@
             </groups>
             <applications>
                 <application>
-                    <name>Brokers</name>
+                    <name>ActiveMQ Brokers</name>
                 </application>
                 <application>
-                    <name>Destinations</name>
+                    <name>ActiveMQ Destinations</name>
                 </application>
                 <application>
-                    <name>Java</name>
+                    <name>ActiveMQ General</name>
                 </application>
             </applications>
             <items>
@@ -61,7 +61,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -120,7 +120,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -179,7 +179,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -238,7 +238,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -297,7 +297,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -361,7 +361,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -425,7 +425,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -489,7 +489,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -553,7 +553,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -617,7 +617,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -676,7 +676,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -735,7 +735,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -794,7 +794,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -853,7 +853,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -912,7 +912,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -971,7 +971,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1030,7 +1030,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1089,7 +1089,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1148,7 +1148,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1207,7 +1207,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1266,7 +1266,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1325,7 +1325,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1384,7 +1384,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1443,7 +1443,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1507,7 +1507,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1571,7 +1571,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1630,7 +1630,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1689,7 +1689,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1748,7 +1748,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1807,7 +1807,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1866,7 +1866,7 @@
                     <inventory_link>0</inventory_link>
                     <applications>
                         <application>
-                            <name>Java</name>
+                            <name>ActiveMQ General</name>
                         </application>
                     </applications>
                     <valuemap/>
@@ -1959,7 +1959,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2019,7 +2019,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2079,7 +2079,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2139,7 +2139,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2199,7 +2199,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2259,7 +2259,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2319,7 +2319,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2379,7 +2379,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2448,7 +2448,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2517,7 +2517,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Brokers</name>
+                                    <name>ActiveMQ Brokers</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2631,7 +2631,7 @@
                     <type>16</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>jmx.discovery[beans,&quot;org.apache.activemq:type=Destination,destinationName=*&quot;]</key>
+                    <key>jmx.discovery[beans,&quot;org.apache.activemq:type=Broker,brokerName=localhost,destinationType=*,destinationName=*&quot;]</key>
                     <delay>1h</delay>
                     <status>0</status>
                     <allowed_hosts/>
@@ -2659,7 +2659,7 @@
                     <description/>
                     <item_prototypes>
                         <item_prototype>
-                            <name>AverageEnqueueTime for {#JMXVALUE}</name>
+                            <name>AverageEnqueueTime for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -2690,7 +2690,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2719,7 +2719,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>ConsumerCount for {#JMXVALUE}</name>
+                            <name>ConsumerCount for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -2750,7 +2750,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2779,7 +2779,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>DequeueCount per minute for {#JMXVALUE}</name>
+                            <name>DequeueCount per minute for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -2810,7 +2810,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2848,7 +2848,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>EnqueueCount per minute for {#JMXVALUE}</name>
+                            <name>EnqueueCount per minute for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -2879,7 +2879,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2917,7 +2917,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>ExpiredCount per minute for {#JMXVALUE}</name>
+                            <name>ExpiredCount per minute for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -2948,7 +2948,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -2986,7 +2986,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>ProducerCount for {#JMXVALUE}</name>
+                            <name>ProducerCount for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -3017,7 +3017,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
@@ -3046,7 +3046,7 @@
                             <master_item/>
                         </item_prototype>
                         <item_prototype>
-                            <name>QueueSize for {#JMXVALUE}</name>
+                            <name>QueueSize for {#JMXDESTINATIONNAME}</name>
                             <type>16</type>
                             <snmp_community/>
                             <snmp_oid/>
@@ -3077,7 +3077,7 @@
                             <inventory_link>0</inventory_link>
                             <applications>
                                 <application>
-                                    <name>Destinations</name>
+                                    <name>ActiveMQ Destinations</name>
                                 </application>
                             </applications>
                             <valuemap/>
